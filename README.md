@@ -10,7 +10,7 @@ Sign up Screen            |  Login page Screen
 
 ![2](https://user-images.githubusercontent.com/77027841/220741013-d6df6743-7177-4b4d-8323-320df1119b18.png) | ![3](https://user-images.githubusercontent.com/77027841/220741033-06e28bd5-950f-4d07-9362-1ff8545ba77b.png)
 
-Home Screen            |  Home screen – 1
+Home Screen | Home screen – 1
 :-------------------------:|:-------------------------:
 ![4](https://user-images.githubusercontent.com/77027841/220741262-a4fa50e5-af32-4fa1-9f7a-d5ae9277f890.png) | ![5](https://user-images.githubusercontent.com/77027841/220741272-123e0791-e887-4e2d-b0a9-113c97085b1f.png)
 
